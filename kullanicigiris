@@ -1,0 +1,11 @@
+<html>
+<body>
+ 
+ <form name="f1" action="sayfa2.html" method="get">
+		 ad:<input type="text" value=" " name="ad" maxlength="15"><br>
+		 soyad:<input type="text" value=" " name="sad" maxlength="20"><br>
+		 <input type="submit" value=" gonder" name="gonder"> <br> <br>
+		  
+		  
+		  </body>
+		  </html>
